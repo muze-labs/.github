@@ -6,3 +6,5 @@
 - `muze-labs` / `@muze-labs` is for experimental or incubating projects.
 
 Moving a project from Muze Labs to Muze NL is a graduation step.
+
+See [the maturity policy](https://github.com/muze-nl/.github/maturity-policy.md) for more information.
