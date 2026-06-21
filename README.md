@@ -7,4 +7,4 @@
 
 Moving a project from Muze Labs to Muze NL is a graduation step.
 
-See [the maturity policy](https://github.com/muze-nl/.github/maturity-policy.md) for more information.
+See [the maturity policy](https://github.com/muze-nl/.github/blob/main/maturity-policy.md) for more information.
